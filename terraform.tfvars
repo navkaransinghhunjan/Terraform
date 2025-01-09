@@ -1,0 +1,5 @@
+ami_value = "ami-0fd05997b4dff7aac"
+key_name_value = "My_laptop"
+instance_type_value = "t2.micro"
+subnet_id_value = "subnet-04e5aef807b1e3bd3"
+s3_bucket_name = "terraform-backend-nav"
